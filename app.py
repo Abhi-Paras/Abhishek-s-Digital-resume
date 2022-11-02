@@ -23,13 +23,12 @@ SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/",
     "LinkedIn": "https://linkedin.com",
     "GitHub": "https://github.com",
-    "Twitter": "https://twitter.com",
+  
 }
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+    "🏆 Image Detection and Facial Remodeling, Under Dr.Sami Azam and Menzies - School of Health Research" :"https://charlesdarwinuni.sharepoint.com/:f:/r/teams/Group8454/Shared%20Documents/General?csf=1&web=1&e=vWN5ON",
+    "🏆 Solving real-time problems and Rebuilding MVR's Drivesafe portal with UX, Heuristics and Ethnographic approach" : "https://charlesdarwinuni-my.sharepoint.com/:f:/g/personal/s330022_students_cdu_edu_au/Ep3UXxa7A9REjB9SfXcnUZ8BNCf0_aYS036rA-3r0Ny93g?e=TCkhKt",
+   
 }
 
 
