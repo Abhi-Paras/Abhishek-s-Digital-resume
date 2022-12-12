@@ -28,7 +28,11 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Image Detection and Facial Remodeling, Under Dr.Sami Azam and Menzies - School of Health Research" :"https://charlesdarwinuni.sharepoint.com/:f:/r/teams/Group8454/Shared%20Documents/General?csf=1&web=1&e=vWN5ON",
     "🏆 Solving real-time problems and Rebuilding MVR's Drivesafe portal with UX, Heuristics and Ethnographic approach" : "https://charlesdarwinuni-my.sharepoint.com/:f:/g/personal/s330022_students_cdu_edu_au/Ep3UXxa7A9REjB9SfXcnUZ8BNCf0_aYS036rA-3r0Ny93g?e=TCkhKt",
-   
+    "🏆 MVR Database Research, Under Dr.Cherry & MVR officials "
+    "🏆 Generated Python Based Game- Digital Excellence Award 2020 NT "
+    "🏆 MVR Database Research, Under Dr.Cherry & MVR officials "
+    "🏆 Generated Python Based Game- Digital Excellence Award 2020 NT "
+
 }
 
 
