@@ -28,10 +28,10 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Image Detection and Facial Remodeling, Under Dr.Sami Azam and Menzies - School of Health Research" :"https://charlesdarwinuni.sharepoint.com/:f:/r/teams/Group8454/Shared%20Documents/General?csf=1&web=1&e=vWN5ON",
     "🏆 Solving real-time problems and Rebuilding MVR's Drivesafe portal with UX, Heuristics and Ethnographic approach" : "https://charlesdarwinuni-my.sharepoint.com/:f:/g/personal/s330022_students_cdu_edu_au/Ep3UXxa7A9REjB9SfXcnUZ8BNCf0_aYS036rA-3r0Ny93g?e=TCkhKt",
-    "🏆 MVR Database Research, Under Dr.Cherry & MVR officials "
-    "🏆 Generated Python Based Game- Digital Excellence Award 2020 NT "
-    "🏆 MVR Database Research, Under Dr.Cherry & MVR officials "
-    "🏆 Generated Python Based Game- Digital Excellence Award 2020 NT "
+    "🏆 MVR Database Research, Under Dr.Cherry & MVR officials" : "",
+    "🏆 Generated Python Based Game- Digital Excellence Award 2020 NT" : "",
+    "🏆 MVR Database Research, Under Dr.Cherry & MVR officials" : "",
+    "🏆 Generated Python Based Game- Digital Excellence Award 2020 NT" : "",
 
 }
 
@@ -76,10 +76,9 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 7 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and Excel
-- ✔️ Good understanding of statistical principles and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ Linfox/Woolworths as a duty manager (November 2021-present)
+- ✔️ ABC Driving school as an administrator (February 2021- December 2021)
+- ✔️ BWS as a retailer (May 2021- November 2021)
 """
 )
 
@@ -89,10 +88,10 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
+- 👩‍💻 Programming: Python,SQL, C Programming
+- 📊 Data Visulization: PowerBi, MS Excel
 - 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: Postgres, MongoDB, MySQL
+- 🗄️ Databases: MySQL, SQL Lite
 """
 )
 
